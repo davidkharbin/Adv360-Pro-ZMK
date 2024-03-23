@@ -66,5 +66,22 @@
 		},
 		"footnotes": {},
 		"type": "UD"
+	},
+	{
+		"names": [
+			"@macro_workspace_left"
+		],
+		"description": "@macro_workspace_left",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
 	}
 ]

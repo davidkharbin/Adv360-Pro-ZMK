@@ -1,9 +1,3 @@
-macro_ss_to_clipboard: macro_ss_to_clipboard{
-compatible = "zmk,behavior-macro";
-label = "macro_ss_to_clipboard";
-#binding-cells = <0>;
-bindings = <&kp LC(LS(LEFT_GUI))>, <&kp N4>;
-};
 macro_workspace_right: macro_workspace_right{
 compatible = "zmk,behavior-macro";
 label = "macro_workspace_right";
